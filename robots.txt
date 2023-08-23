@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: ljang0.github.io/sitemap.xml
+Sitemap: https://ljang0.github.io/sitemap.xml
